@@ -20,6 +20,16 @@ Avant d’installer ce projet, assure-toi d’avoir :
 - **CMake** si nécessaire
 - Les bibliothèques requises pour la version graphique (**préciser ici**)
 
+
+### ⚙️ Installation
+
+Clone le projet :
+
+```bash
+git clone https://github.com/keylian15/Jeu_De_La_Vie
+cd Jeu_De_La_Vie
+```
+
 ### ⚙️ Compilation
 
 #### 🔹 Mode Terminal
