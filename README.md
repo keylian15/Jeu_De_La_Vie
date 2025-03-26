@@ -18,7 +18,7 @@ Avant d’installer ce projet, assure-toi d’avoir :
 
 - Un **compilateur C++** (GCC, Clang, MSVC...)
 - **CMake** si nécessaire
-- Les bibliothèques requises pour la version graphique (**préciser ici**)
+- Les bibliothèques requises pour la version graphique
 
 
 ### ⚙️ Installation
